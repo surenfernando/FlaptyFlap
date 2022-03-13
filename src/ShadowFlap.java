@@ -8,10 +8,8 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * Skeleton Code for SWEN20003 Project 2, Semester 2, 2021
  *
  * @author: Suren Fernando
- * StudentID: 1138702
  */
 public class ShadowFlap extends AbstractGame {
     Random rand = new Random();
