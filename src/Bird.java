@@ -9,7 +9,6 @@ import bagel.util.Rectangle;
 /**
  * Bird Class
  * @author: Suren Fernando
- * StudentID: 1138702
  */
 public class Bird {
     private final Image WNG_UP;
